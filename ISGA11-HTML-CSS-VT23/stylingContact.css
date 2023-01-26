@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(24, 16, 40);
+  }
+
+h3 img {
+    display: block;
+    margin: auto;
+    max-width: 50%;
+  }
+
+  
+
+.tabell{
+  color:rgb(250, 0, 154);
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+.rubrik{
+  color:rgb(250, 0, 154);
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}

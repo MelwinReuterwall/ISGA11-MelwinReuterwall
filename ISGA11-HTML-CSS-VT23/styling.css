@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(210, 177, 164);
+  }
+
+
+
+nav li img{
+    display: inline-block;
+    margin-right: 10px;
+}
+
